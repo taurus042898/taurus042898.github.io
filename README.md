@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Corey Sudduth | Customer Service & Logistics Professional</title>
-    
-</head>
+
 <body>
     <header>
         <img src="/images/profile_photo.jpg" alt="Corey Sudduth" class="profile-photo">

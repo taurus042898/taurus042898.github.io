@@ -1,5 +1,5 @@
 <header>
-        <img src="/images/profile_photo.jpg" alt="Corey Sudduth" class="profile-photo">
+        <img src="/images/profile_photo.jpg" width="33.33%"alt="Corey Sudduth" class="profile-photo">
         <h1>Corey Sudduth</h1>
         <p><strong>Customer Service & Logistics Professional</strong></p>
         <p>Location: New Philadelphia, OH</p>

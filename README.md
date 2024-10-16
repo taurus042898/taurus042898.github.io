@@ -4,72 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Corey Sudduth | Customer Service & Logistics Professional</title>
-    <style>
-        /* CSS Reset */
-        body, h1, h2, h3, p, ul {
-            margin: 0;
-            padding: 0;
-            list-style: none;
-        }
-
-        body {
-            background-color: #121212; /* Dark background */
-            color: #EAEAEA; /* Light text */
-            font-family: 'Georgia', serif;
-            line-height: 1.6;
-        }
-
-        header, section {
-            margin: 20px;
-            padding: 20px;
-            border-radius: 8px;
-            background-color: #1E1E1E; /* Slightly lighter dark background for sections */
-            border: 2px solid #555;
-        }
-
-        h1, h2, h3 {
-            color: #0c827a; /* Highlight color for headings */
-            font-family: 'Times New Roman', serif;
-        }
-
-        h1 {
-            font-size: 2.5em;
-        }
-
-        h2 {
-            font-size: 2em;
-        }
-
-        h3 {
-            font-size: 1.5em;
-        }
-
-        p {
-            margin-bottom: 10px;
-        }
-
-        ul {
-            list-style-type: disc;
-            padding-left: 20px;
-        }
-
-        a {
-            color: #1E90FF;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        .profile-photo {
-            float: right;
-            width: 14rem;
-            height: auto;
-            border-radius: 50%;
-            margin: 10px;
-        }
-    </style>
+    
 </head>
 <body>
     <header>

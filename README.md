@@ -1,16 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<body>
-    <header>
+<header>
         <img src="/images/profile_photo.jpg" alt="Corey Sudduth" class="profile-photo">
         <h1>Corey Sudduth</h1>
         <p><strong>Customer Service & Logistics Professional</strong></p>
         <p>Location: New Philadelphia, OH</p>
         <p>Phone: <a href="tel:2342061687">(234) 206-1687</a></p>
         <p>Email: <a href="coreysud98@gmail.com">corey@sudd.uth</a></p>
-    </header>
-
+</header>
     <section id="about">
         <h2>About Me</h2>
         <p>
@@ -19,7 +14,6 @@
             I am passionate about helping people and ensuring operational excellence in every task.
         </p>
     </section>
-
     <section id="professional-experience">
         <h2>Professional Experience</h2>
         <div class="job">
@@ -58,7 +52,6 @@
             </ul>
         </div>
     </section>
-
     <section id="skills">
         <h2>Skills</h2>
         <ul>
@@ -70,10 +63,7 @@
             <li>Forklift Operation & Equipment Handling</li>
         </ul>
     </section>
-
     <section id="additional-info">
         <h2>Additional Information</h2>
         <p>Owner of a 1984 Fleetwood Southwind RV, showcasing strong mechanical skills and adaptability in various settings.</p>
     </section>
-</body>
-</html>
